@@ -5,12 +5,3 @@
 ## 数据科学与工程，数据驱动决策
 ## 数据处理和大数据
 ## 从大数据1.0到大数据2.0
-
-## A few tips
-
-1. Click anywhere outside of this Markdown block to render it
-2. Hover on Preview to see a preview of the rendered content
-3. Use the Insert Figure button to add images (and data)
-4. Use LaTeX to add equations, e.g. \(\mathcal L_{EM}=-\frac14F^{\mu\nu}F_{\mu\nu}\)
-5. Search scholarly sources and references by clicking **cite**
-6. To insert more Markdown blocks, click Insert \(\rightarrow\) Markdown.
