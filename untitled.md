@@ -1,4 +1,4 @@
-# Introduction: Data-Analytic Th
+# Introduction: Data-Analytic Thank
 This is a Markdown block and you can use Markdown syntax to **bold** or *italic* text.
 
 ## A few tips
