@@ -2,7 +2,7 @@
 无处不在的数据
 案例：
 案例：
-数据科学yu
+数据科学与
 This is a Markdown block and you can use Markdown syntax to **bold** or *italic* text.
 
 ## A few tips
