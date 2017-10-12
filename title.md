@@ -1,1 +1,1 @@
-# Notes on Data Science For busi
+# Notes on Data Science For business
