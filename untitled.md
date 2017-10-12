@@ -2,7 +2,7 @@
 无处不在的数据
 案例：
 案例：
-数据科学与工程， 
+数据科学与工程，
 This is a Markdown block and you can use Markdown syntax to **bold** or *italic* text.
 
 ## A few tips
