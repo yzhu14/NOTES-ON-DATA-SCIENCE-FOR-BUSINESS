@@ -4,7 +4,7 @@
 案例：
 数据科学与工程，数据驱动决策
 数据处理和大数据
-从大数据1.0到da shu j
+从大数据1.0到大数据
 This is a Markdown block and you can use Markdown syntax to **bold** or *italic* text.
 
 ## A few tips
