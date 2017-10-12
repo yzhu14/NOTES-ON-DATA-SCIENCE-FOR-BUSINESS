@@ -1,1 +1,1 @@
-# Notes on Data Scie
+# Notes on Data Sci
